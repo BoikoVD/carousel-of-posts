@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.app {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #F2F2F1;
+}
+
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+
+  background-color: #FFF;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background-color: #C3E2FF;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: transparent;
+}

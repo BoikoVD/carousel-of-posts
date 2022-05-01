@@ -1,0 +1,9 @@
+.ant-card {
+  width: 100%;
+}
+
+.ant-card-head-title {
+  white-space: normal !important;
+  overflow: auto  !important;
+  text-overflow: initial  !important;
+}

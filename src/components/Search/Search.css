@@ -1,0 +1,13 @@
+.searchForm {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+
+.formItem {
+  margin: 0 !important;
+}
+
+.numberInput {
+  width: 300px !important;
+}
